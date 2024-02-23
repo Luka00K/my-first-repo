@@ -3,4 +3,4 @@
 Hier komt de link naar [Zuyd](www.zuyd.nl)
 Hier komt de afbeelding en de link naar ![Zuyd ](www.zuyd.nl)
 
-Een foto: ![een dummy foto](img/dummy.png)
+Een foto: <img src="awesome tekst.png" width="300" alt="een foto" />
